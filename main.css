@@ -1,0 +1,39 @@
+* { margin: 0; box-sizing: border-box; }
+body {
+  margin: auto;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: IBM Plex Sans, sans-serif;
+}
+h1 {
+  font-size: 3.0rem;
+  padding: 30px;
+}
+h2 {
+  font-size: 2.0rem;
+  text-align: center;
+  border-bottom: 1px solid #bbb;
+  color: #b47d6b;
+  margin-bottom: 20px;
+}
+header, main, footer {
+  margin: 2rem auto;
+  padding: .5rem;
+  max-width: 800px;
+}
+header, footer, footer a {
+  text-align: center;
+  background-color: #b4a79e;
+  color: #f5f5f5;
+}
+header img {
+  height: 6rem;
+  float: left;
+}
+footer {
+  font-size: 1.0rem;
+  padding: 5px;
+}
+a {
+  color: #00a2ed;
+}
